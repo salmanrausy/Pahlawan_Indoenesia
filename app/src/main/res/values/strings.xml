@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">10 Presiden Dunia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="title">10 Presiden Dunia Memiliki Pengaruh Internasional</string>
+    <string name="titleDetail">Detail Presiden</string>
+    <string name="presidents_name">Nama Presiden</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_name">Salman Rausyan Fikri</string>
+    <string name="my_email">salmanrausy@gmail.com</string>
+    <string name="asal_negara">Asal Negara</string>
+    <string name="periode">Periode Menjabat</string>
+    <string name="contoh_periode">xxxx - sekarang</string>
+    <string name="contoh_negara">Indonesia</string>
+    <string-array name="data_name">
+        <item>Joko Widodo</item>
+        <item>Barham Salih</item>
+        <item>Ferdinand R Marcos</item>
+        <item>Frank Walter Steinmer</item>
+        <item>Kim Jong Un</item>
+        <item>Joe Biden</item>
+        <item>Micheal D Higgins</item>
+        <item>Vladimir Putin</item>
+        <item>Sergio Mattarella</item>
+        <item>Xi Jin Ping</item>
+    </string-array>
+    <string-array name="data_description">
+        <!--        Jokowi - Indonesia-->
+        <item>Ir. H. Joko Widodo dalah presiden Indonesia yang mulai menjabat sejak tanggal 20 Oktober 2014. Terpilih dalam Pemilu Presiden 2014, Jokowi menjadi presiden Indonesia pertama yang bukan berasal dari elite politik atau militer Indonesia. Dia terpilih bersama Wakil Presiden Jusuf Kalla dan kembali terpilih bersama Wakil Presiden Maruf Amin dalam Pemilu Presiden 2019. Sebelumnya, Jokowi pernah menjabat sebagai gubernur Jakarta sejak 15 Oktober 2012 hingga 16 Oktober 2014 didampingi Basuki Tjahaja Purnama sebagai wakil gubernur. Sebelumnya, ia adalah wali kota Surakarta, sejak tanggal 28 Juli 2005 hingga 1 Oktober 2012, didampingi F.X. Hadi Rudyatmo sebagai wakil wali kota. Dua tahun menjalani periode keduanya menjadi wali kota Surakarta, Jokowi ditunjuk oleh partainya, Partai Demokrasi Indonesia Perjuangan (PDI-P), untuk bersaing dalam Pilkada DKI Jakarta 2012 berpasangan dengan Basuki Tjahaja Purnama.</item>
+        <!--        Barham Salih - Irak-->
+        <item>Barham Salih lahir pada tahun 1960 di kota Sulaymaniyah, Irak. Dia ditangkap pada tahun 1979 oleh rezim Ba athis dua kali dengan tuduhan terlibat dalam gerakan nasional Kurdi dengan mengambil beberapa foto pemrotes di kota Sulaymaniyah dan menghabiskan 43 hari dalam penahanan di penjara Komisi Investigasi Khusus di Kirkuk di mana dia mendapatkan siksaan. Setelah dibebaskan, ia menyelesaikan sekolah menengahnya dan meninggalkan Irak dan pergi ke Inggris untuk melarikan diri dari persekusi yang berkelanjutan.</item>
+        <!--        Ferdinand R Marcos - Filipina-->
+        <item>Ferdinand "Bongbong" Romualdez Marcos Jr. lahir 13 September 1957, yang lebih dikenal sebagai Bongbong Marcos, adalah seorang politikus Filipina dan senator dalam Kongres Filipina ke-16. Ia merupakan anak kedua dan putra satu-satunya dari mantan Presiden Ferdinand E. Marcos dan mantan Ibu Negara Imelda Romualdez-Marcos.Setelah ayahnya digulingkan selama 36 tahun dari kekuasaan dan kemudian mengasingkan diri ke Amerika. Ketika korupsi keluarga Marcos terbongkar dan keluarganya harus menjalani pengasingan ketika ayahnya digulingkan di tahun 1986, Bongbong muda menjalani pendidikan di sekolah elite di Inggris dan melanjutkan studi di Sekolah Bisnis terkenal di Amerika Serikat Wharton di Pennsylvania namun tidak berhasil menyelesaikan pendidikannya di sana.</item>
+        <!--        Frank Walter Steinmer - Jerman-->
+        <item>Frank-Walter Steinmeier lahir 5 Januari 1956 adalah seorang politikus Jerman yang merupakan presiden terpilih Jerman, mulai menjabat sebagai Presiden Federal Jerman pada tanggal 19 Maret 2017. Dia sebelumnya menjabat sebagai Menteri Luar Negeri dari tahun 2005 sampai 2009 dan menjabat lagi dari tahun 2013 sampai 2017, dan sebagai Wakil Kanselir dari tahun 2007 sampai 2009. Dia juga merupakan Ketua Organisasi untuk Keamanan dan Kerja sama di Eropa (OSCE) tahun 2016.Steinmeier adalah anggota Partai Sosial Demokrat Jerman (SPD), memiliki gelar doktor dalam hukum dan sebelumnya adalah seorang pegawai negeri sipil karier. Dia adalah pembantu dekat Gerhard Schröder ketika Schröder menjadi Perdana Menteri dari Lower Saxony selama sebagian besar tahun 1990-an, dan menjabat sebagai kepala staf Schröder dari tahun 1996.</item>
+        <!--        Kim Jong Un - Korea Utara-->
+        <item>Kim Jong-un lahir 8 Januari 1983 adalah Pemimpin Tertinggi Republik Demokratik Rakyat Korea, atau yang lebih dikenal dengan Korea Utara. Dia adalah putra Kim Jong-il (1941–2011) dan cucu dari Kim Il-sung (1912–1994). Sebelum menjadi pemimpin Korea Utara, ia pernah menjabat sebagai Sekretaris Pertama Partai Buruh Korea, Ketua Pertama Komisi Militer Pusat Partai Buruh Korea, Panglima Tertinggi Tentara Rakyat Korea, dan Politbiro Partai Buruh Korea. Ia secara resmi dinyatakan sebagai pemimpin tertinggi Korea Utara setelah pemakaman kenegaraan ayahnya pada tanggal 28 Desember 2011. Kim Jong-un adalah putra ketiga sekaligus putra bungsu Kim Jong-il dengan salah seorang istrinya, Ko Young-hee. Sejak akhir 2010, ia dianggap sebagai pewaris kepemimpinan Korea Utara, dan setelah kematian ayahnya, ia dinyatakan sebagai "Penerus Agung" oleh stasiun televisi Korea Utara. Setelah kematian Kim Jong-il, Ketua Majelis Rakyat Tertinggi Korea Utara, Kim Yong-nam, menyatakan bahwa "Kim Jong-un adalah pemimpin tertinggi partai, militer, dan negara kita, yang mewarisi ideologi, kepemimpinan, karakter, kebajikan, ketabahan, dan keberanian Kim Jong-il". Pada tanggal 30 Desember 2011, Politbiro Partai Buruh Korea secara resmi menunjuk Kim Jong-un sebagai Panglima Tertinggi Tentara Rakyat Korea. Pada 11 April 2012, Konferensi Partai ke-4 memilihnya sebagai Sekretaris Pertama Partai Buruh Korea.</item>
+        <!--        Joe Biden - USA-->
+        <item>Joseph Robinette Biden Jr. lahir 20 November 1942 adalah seorang politikus Amerika yang menjabat sebagai Presiden Amerika Serikat ke-46. Setelah mengalahkan Donald Trump yang merupakan petahana saat pemilihan umum Presiden Amerika Serikat 2020, dia dilantik sebagai Presiden AS ke-46 pada 20 Januari 2021. Ia adalah anggota Partai Demokrat dan pernah menjabat sebagai Wakil Presiden Amerika Serikat ke-47 dari 2009 hingga 2017 serta Senator senior dari Delaware dari 1973 hingga 2009.Ia pernah mencalonkan diri dalam pemilihan presiden 1988 dan 2008 namun mengundurkan diri dalam kedua-dua kesempatan tersebut. Pada 22 Agustus 2008, diumumkan bahwa Barack Obama telah memilih Biden sebagai pasangan bakal calon wakil presidennya dalam pemilihan presiden 2008.</item>
+        <!--        Micheal D Higgins - Irlandia-->
+        <item>Michael Daniel Higgins lahir 18 April 1941 adalah seorang politikus, penyair, sosiolog, dan penyiar Irlandia, yang telah menjabat sebagai presiden Irlandia kesembilan sejak November 2011. Dia menjabat sebagai Teachta Dála (TD) untuk daerah pemilihan Galway West dari 1981 hingga 1982 dan 1987 hingga 2011. Dia menjabat sebagai Menteri Seni, Budaya dan Gaeltacht dari 1993 hingga 1997 dan Walikota Galway dari 1981 hingga 1982 dan 1990 hingga 1991. Dia adalah senator dari 1973 hingga 1977, setelah dinominasikan oleh taoiseach dan dari 1983 hingga 1987 untuk Universitas Nasional Irlandia. Dia adalah Presiden Partai Buruh dari 2003 hingga 2011, sampai dia mengundurkan diri setelah terpilih sebagai Presiden Irlandia. Dia telah menggunakan masa jabatannya untuk membahas masalah-masalah yang berkaitan dengan keadilan, kesetaraan sosial, inklusi sosial, anti-sektarianisme, anti-rasisme, dan rekonsiliasi. Dia melakukan kunjungan kenegaraan pertama oleh seorang presiden Irlandia ke Britania Raya pada bulan April 2014.</item>
+        <!--        Vladimir Putin - Rusia-->
+        <item>Vladimir Vladimirovich Putin lahir 7 Oktober 1952 adalah seorang politikus Rusia, dan merupakan Presiden Rusia saat ini. Ia merupakan presiden dengan masa jabatan terlama kedua di Eropa setelah Alexander Lukashenko yang merupakan Presiden Belarus. Putin telah menjadi Presiden Rusia sejak 7 Mei 2012. Putin sebelumnya menjadi Perdana Menteri dari 1999 sampai 2000, Presiden dari 2000 sampai 2008, dan kembali menjadi Perdana Menteri dari 2008 sampai 2012. Pada masa jabatan keduanya sebagai Perdana Menteri, ia menjadi Ketua Partai Rusia Bersatu, sebuah partai pemerintah.Putin belajar bahasa Jerman di SMA Saint Petersburg 281, dan dapat berbicara dalam bahasa Jerman. Putin belajar hukum di Universitas Negeri Saint Petersburg pada 1970, dan lulus pada 1975.</item>
+        <!--        Sergio Mattarella - Italia-->
+        <item>Sergio Mattarella lahir 23 Juli 1941 adalah politikus, ahli hukum, akademikus, dan pengacara Italia, yang menjabat sebagai Presiden Republik Italia ke-12 dan saat ini, sejak Februari 2015.Mattarella sebelumnya adalah Menteri Hubungan Parlemen dari tahun 1987 sampai 1989, Menteri Pendidikan Umum dari tahun 1989 sampai 1990, Wakil Perdana Menteri Italia dari tahun 1998 sampai 1999 dan Menteri Pertahanan Italia dari tahun 1999 sampai 2001. Pada tahun 2011, ia menjadi hakim terpilih di Mahkamah Konstitusi Italia. Pada 31 Januari 2015, dia dipilih oleh Parlemen Italia untuk menjabat sebagai Presiden Italia.</item>
+        <!--        Xi Jinping - Cina-->
+        <item>Xi Jinping lahir 15 Juni 1953 adalah Sekretaris Jenderal Partai Komunis, Presiden ke-7, dan Ketua Komisi Militer Sentral Republik Rakyat Tiongkok. Ia juga menjadi Sekretaris Jenderal Komite Tetap Politbiro PKT. Pada 15 November 2012, setelah sebuah pemungutan suara dalam pertemuan parlemen di Beijing, ia terpilih sebagai Sekretaris Jenderal Partai Komunis Tiongkok. Jinping adalah putra dari veteran komunis Xi Zhongxun (1913–2002), dan mengawali sebagian besar karier politiknya di provinsi Fujian. Ia kemudian diangkat sebagai ketua partai di provinsi tetangga, Zhejiang, dan selanjutnya juga diangkat sebagai ketua partai di Shanghai setelah pemecatan Chen Liangyu. Jinping dikenal karena sikap kerasnya terhadap korupsi dan keterbukaannya mengenai reformasi politik dan ekonomi pasar di RRT. Posisinya di kancah perpolitikan Tiongkok membuatnya menjadi penerus kelima, menggantikan Hu Jintao, sebagai Sekretaris Jenderal dan pemimpin tertinggi dari Partai Komunis Tiongkok.</item>
+    </string-array>
+
+    <string-array name="data_negara">
+        <item>Indonesia</item>
+        <item>Irak</item>
+        <item>Filipina</item>
+        <item>Jerman</item>
+        <item>Korea Utara</item>
+        <item>Amerika Serikat</item>
+        <item>Irlandia</item>
+        <item>Rusia</item>
+        <item>Italia</item>
+        <item>Cina</item>
+    </string-array>
+
+    <string-array name="data_periode">
+        <item>2014 - Sekarang</item>
+        <item>2018 - Sekarang</item>
+        <item>2022 - Sekarang</item>
+        <item>2017 - Sekarang</item>
+        <item>2011 - Sekarang</item>
+        <item>2021 - Sekarang</item>
+        <item>2011 - Sekarang</item>
+        <item>2012 - Sekarang</item>
+        <item>2015 - Sekarang</item>
+        <item>2013 - Sekarang</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/jokowi</item>
+        <item>@drawable/barham_salih</item>
+        <item>@drawable/ferdinand_r_marcos_jr</item>
+        <item>@drawable/frank_walter_steinmeier</item>
+        <item>@drawable/kim_jong_un</item>
+        <item>@drawable/joe_biden</item>
+        <item>@drawable/micheal_d_higgins</item>
+        <item>@drawable/putin</item>
+        <item>@drawable/sergio_mattarella</item>
+        <item>@drawable/xi_jinping</item>
+    </integer-array>
+</resources>
